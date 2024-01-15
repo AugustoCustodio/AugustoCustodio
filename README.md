@@ -16,7 +16,7 @@ I am a Systems Development Analyst with over a decade of experience in web devel
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65a46fee7b849070903ab623?variant=light" alt="roadmap.sh"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoCustodio&layout=compact&langs_count=8&card_width=200" />
+  <img height=190 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoCustodio&layout=compact&langs_count=8&card_width=150" />
 </a>
 
 
