@@ -10,9 +10,15 @@
 
 I am a Systems Development Analyst with over a decade of experience in web development. My expertise lies in cutting-edge technologies such as Node.js, JavaScript/Typescript, React.js, Next.js, and various other related frameworks and libraries. Throughout my career, I have gained extensive knowledge in responsive design best practices, UI, automation, version control, SGBDs, Design Patterns, TDD, CI/CD, DevOps, NoOps, dependency managers, RESTful APIs, GraphQL, and template languages. Additionally, I have experience leading development teams and UI/UX designers, especially in retail and e-commerce companies. I excel in communication and teamwork, facilitating product and process enhancement. I focus on agile methodologies like Design Thinking and Scrum and have a proven track record in managing, executing, and delivering projects effectively.
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoCustodio&layout=compact&langs_count=8&card_width=200" />
+---
+
+## Some XP with technologies - Metrics
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65a46fee7b849070903ab623?variant=light" alt="roadmap.sh"/>
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=190 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoCustodio&layout=compact&langs_count=8&card_width=200" />
+</a>
+
 
 
 ## Education
