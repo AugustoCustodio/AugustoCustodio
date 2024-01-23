@@ -12,16 +12,9 @@ I am a Systems Development Analyst with over a decade of experience in web devel
 
 ---
 
-## Some XP with technologies - Metrics
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65a46fee7b849070903ab623?variant=light" alt="roadmap.sh"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=140 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoCustodio&layout=compact&langs_count=8&card_width=50" />
-</a>
-
-
 
 ## Education
 - Bachelor's Degree in Systems Analysis and Development, FATEC - Graduated in July 2017.
 - Technical Degree in Mechatronics, ETEC - João Baptista de Lima Figueiredo - Graduated in December 2010.
+- Currently learning Python
 
