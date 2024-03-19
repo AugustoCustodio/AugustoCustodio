@@ -16,5 +16,6 @@ I am a Systems Development Analyst with over a decade of experience in web devel
 ## Education
 - Bachelor's Degree in Systems Analysis and Development, FATEC - Graduated in July 2017.
 - Technical Degree in Mechatronics, ETEC - João Baptista de Lima Figueiredo - Graduated in December 2010.
+- Postgraduate degree in Software Architecture, Data Science, and Cybersecurity, from PUC - Paraná and PUC - Campinas, dual certification, expected completion by January 2024.
 - Currently learning Python
 
