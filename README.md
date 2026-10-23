@@ -9,11 +9,20 @@
 
 ---
 
-Sou Analista de Desenvolvimento de Sistemas com mais de 10 anos de experiência em desenvolvimento web. Atualmente trabalho no **Itaú Unibanco** (desde abril de 2024), onde atuo em projetos estratégicos com foco em tecnologias modernas e arquitetura robusta.
+Sou Engenheiro de Software com mais de 10 anos de experiência no desenvolvimento de soluções escaláveis, seguras e de alta confiabilidade, atuando nos setores bancário, varejo, educação e e-commerce. Minha carreira combina engenharia, arquitetura e segurança da informação, com foco em entregar produtos robustos, modernos e alinhados ao negócio.
 
-Tenho forte domínio em **Node.js**, **JavaScript/Typescript**, **React.js**, **Next.js**, entre outras tecnologias. Ao longo da carreira, trabalhei com **design responsivo**, **automação**, **controle de versão**, **DevOps/NoOps**, **APIs REST/GraphQL**, **TDD**, **CI/CD** e **padrões de arquitetura**. Também atuei coordenando equipes de desenvolvimento e UI/UX, especialmente em empresas de varejo e e-commerce.
+Atuo com JavaScript, TypeScript, React.js, Next.js, Angular, Node.js, AWS, Docker e CI/CD, além de possuir experiência sólida em cloud computing, microsserviços, APIs REST/GraphQL, pipelines de entrega contínua e design de sistemas. Também aplico práticas de SRE, observabilidade (Datadog/Splunk), performance, testes automatizados e governança de código, garantindo estabilidade e segurança (JWT, OAuth2, LGPD, criptografia).
 
-Me especializei em metodologias ágeis como **Scrum** e **Design Thinking**, sempre com foco em entregar valor, qualidade e inovação.
+Minha trajetória inclui liderança técnica, coordenação de equipes e participação ativa em squads ágeis, contribuindo com planejamento, revisão de código, mentorias e definição de padrões. Já conduzi projetos de transformação digital, automação de processos, integração entre sistemas legados e modernos, otimização de UX/UI e implementação de design systems.
+
+Durante minhas experiências, atuei em iniciativas complexas como desenvolvimento de aplicações críticas no segmento financeiro, modernização de pipelines CI/CD, criação de bibliotecas de componentes, integração com plataformas internas e externas, migração para cloud, gestão de infraestrutura e suporte a incidentes de alta prioridade. Também tive atuação estratégica com analytics, SEO, acessibilidade, performance web e padronização front-end.
+
+Como líder e engenheiro, prezo por colaboração multidisciplinar, comunicação clara e decisões orientadas por dados. Acredito que tecnologia, produto e experiência do usuário devem caminhar juntas, e busco sempre alinhar inovação, qualidade e impacto real.
+
+Atualmente, meu objetivo é continuar contribuindo para a construção de sistemas modernos, seguros e escaláveis, atuando em equipes que valorizem boas práticas, crescimento contínuo e excelência técnica.
+
+Especialidades:
+Engenharia de Software • Front-end & Back-end • Arquitetura de Sistemas • Segurança da Informação • Cloud (AWS/GCP) • Microsserviços • CI/CD • DevOps • SRE • APIs REST/GraphQL • Observabilidade • UX/UI • Design System • Metodologias Ágeis • Liderança Técnica
 
 ---
 
